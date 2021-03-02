@@ -247,4 +247,7 @@ If you completed all steps and run it succesfully, you have to see the screen be
 ### License
 [MIT](https://github.com/durannumit/aws_amplify_flutter_integration)
 
+
+> Note : amplfiy folder deleted beacuse it contains account informations. You need to configure your own AWS account to run the app
+
 > Flutter AWS Auth, Storage and Analytics coming soon!
